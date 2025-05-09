@@ -16,9 +16,9 @@ Technologies Used:
 
 - Libraries and Tools:
 
-Pandas
-NumPy
-NLTK
-Matplotlib
-Seaborn
-Scikit-learn
+- Pandas
+- NumPy
+- NLTK
+- Matplotlib
+- Seaborn
+- Scikit-learn
