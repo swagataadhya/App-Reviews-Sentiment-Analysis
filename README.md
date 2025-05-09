@@ -14,7 +14,7 @@ Features:
 Technologies Used:
 - Programming Language: Python
 
-- Libraries and Tools:
+Libraries and Tools:
 
 - Pandas
 - NumPy
